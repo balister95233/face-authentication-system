@@ -33,7 +33,9 @@ python main.py
 ![Output](output.png)
 ---
 
+---
+
 ## 👨‍💻 Author
-**Balister Kumar** 
- 🔗 GitHub: 
-https://github.com/balister95233
+
+- **Name:** Balister Kumar  
+- **GitHub:** https://github.com/balister95233
