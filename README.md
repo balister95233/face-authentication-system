@@ -34,5 +34,6 @@ python main.py
 ---
 
 ## 👨‍💻 Author
-Balister Kumar  
-GitHub: https://github.com/balister95233
+**Balister Kumar** 
+ 🔗 GitHub: 
+https://github.com/balister95233
