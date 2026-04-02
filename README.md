@@ -31,3 +31,8 @@ python main.py
 ## 📸 Output
 
 ![Output](output.png)
+---
+
+## 👨‍💻 Author
+Balister Kumar  
+GitHub: https://github.com/balister95233
